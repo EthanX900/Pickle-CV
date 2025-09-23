@@ -3,7 +3,7 @@
 A computer vision project to analyze pickleball games. This project uses object detection and tracking to identify players and the ball, track their movements, and calculate game statistics.
 
 ## Key Features
-- **Player and Ball Detection:** Utilizes a YOLOv8 model to detect players and the ball in video footage.
+- **Player and Ball Detection:** Utilizes a YOLOv11 model to detect players and the ball in video footage.
 - **Court Line Detection:** Identifies the court lines to establish a frame of reference.
 - **Movement Tracking:** Tracks the detected objects across frames to analyze movement and game events.
 - **Data Output:** Generates an annotated video highlighting detections and can save tracking data.
