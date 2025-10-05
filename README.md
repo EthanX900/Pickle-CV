@@ -26,3 +26,7 @@ A computer vision project to analyze pickleball games. This project uses object 
     python main.py
     ```
 5.  The processed video will be saved in the `output_videos` directory.
+
+## Demo
+
+A demo of the output video can be found in the `output_videos` folder.

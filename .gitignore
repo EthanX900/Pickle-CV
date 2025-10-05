@@ -22,7 +22,6 @@ __pycache__/
 .vscode/
 
 # Output files
-/output_videos/
 /runs/
 /tracker_saves/
 \n# Model and data files\nmodels/\nsample_inputs/\nanalysis/
